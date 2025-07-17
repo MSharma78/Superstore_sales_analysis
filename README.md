@@ -25,6 +25,8 @@ https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 - Technology takes the lead of total sales - 827K
 - California makes the highest sale - 446K
 
+  ![Top States by Sales](Images/Top10_States_Sales.png)
+
 # How to Run
 1. Clone this repo
 2. open Jupyter Notebook
